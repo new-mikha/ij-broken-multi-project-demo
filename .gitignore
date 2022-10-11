@@ -1,0 +1,7 @@
+.gradle
+.idea
+childOne/build/*
+childTwo/build/*
+gradlew*
+gradle/
+*.log
